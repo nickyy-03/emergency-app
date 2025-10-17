@@ -1,0 +1,5 @@
+{
+  "name": "Smart Emergency Power Mode",
+  "description": "A mobile-first prototype app that simulates intelligent power-saving behavior below 20% battery, featuring an emergency dashboard, app management, an SOS system, an offline toolkit, and more.",
+  "requestFramePermissions": []
+}
